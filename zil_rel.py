@@ -1,12 +1,5 @@
-import json
-import pandas as pd
-import openpyxl
-import bs4
-import requests
-import realetors as r
 import scrape_fun as sf
-import pandas as pd
-import openpyxl
+
 
 if __name__ == '__main__':
 	# init the urls needed to access the website
@@ -15,7 +8,6 @@ if __name__ == '__main__':
 
 	sf.to_xcel(companies)
 	data = sf.from_excel()
-	print(data)
 
 
 

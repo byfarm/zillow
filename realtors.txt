@@ -2,21 +2,22 @@ company name: Story Real Estate | KW Palouse
 address: Story Real Estate | KW Palouse;175 S Main St;Moscow, ID 83843
 phone: (208) 278-1130
 websites: http://storyrealestate.com https://www.facebook.com/storyrealestatemoscow/ 
-realtors: Chris and Natalie and the Story Team Eric Burnett Jordan Clemans Tyler LaVoie James Schoolland Chris Carpenter Danny Bradley Sam Christensen 
+realtors: Chris and Natalie and the Story Team, Eric Burnett, Jordan Clemans, Tyler LaVoie, James Schoolland, Chris Carpenter, Danny Bradley, Sam Christensen, 
+
 Chris and Natalie and the Story Team
-websites: http://storyrealestate.comhttps://www.facebook.com/storyrealestatemoscow/
+websites: http://storyrealestate.com https://www.facebook.com/storyrealestatemoscow/ 
 phone: (208) 278-1130
 
 Eric Burnett
-websites: http://www.eric.storyrealestatemoscow.comhttp://eric and sue  burnett at story real estate | KW Palousehttp://Eric Burnett
+websites: http://www.eric.storyrealestatemoscow.com http://eric and sue  burnett at story real estate | KW Palouse http://Eric Burnett 
 phone: (208) 427-2612
 
 Jordan Clemans
-websites: http://jordan.storyrealestatemoscow.comhttp://jordan.storyrealestatemoscow.comhttps://www.linkedin.com/company/story-real-estate-moscow-idaho/
+websites: http://jordan.storyrealestatemoscow.com http://jordan.storyrealestatemoscow.com https://www.linkedin.com/company/story-real-estate-moscow-idaho/ 
 phone: (208) 487-8944
 
 Tyler LaVoie
-websites: http://tyler.storyrealestatemoscow.comhttps://www.linkedin.com/in/tyler-lavoie-208a3b6a/
+websites: http://tyler.storyrealestatemoscow.com https://www.linkedin.com/in/tyler-lavoie-208a3b6a/ 
 phone: (509) 587-1699
 
 James Schoolland
@@ -24,46 +25,52 @@ websites:
 phone: (208) 268-5803
 
 Chris Carpenter
-websites: https://chris.storyrealestatemoscow.com/https://www.facebook.com/chrisandnatalierealestate/
+websites: https://chris.storyrealestatemoscow.com/ https://www.facebook.com/chrisandnatalierealestate/ 
 phone: (208) 504-1298
 
 Danny Bradley
-websites: http://danny.storyrealestatemoscow.com
+websites: http://danny.storyrealestatemoscow.com 
 phone: (208) 595-6519
 
 Sam Christensen
-websites: http://sam.storyrealestatemoscow.com
+websites: http://sam.storyrealestatemoscow.com 
 phone: (208) 607-3821
 
-Tanja Blue
+
+Personal Realtor: Tanja Blue
+company name: Latah Realty
 websites: https://latahrealty.com/about-us/our-agents/tanja-blue/ https://www.facebook.com/tanjabluerealtor http://www.linkedin.com/pub/tanja-rankin/17/a5b/797 
 address: Latah Realty;128 East 3rd;Moscow, ID 83843
 phone: (208) 261-7135
 
-Aline Gale
+
+Personal Realtor: Aline Gale
+company name: Re/Max Connections
 websites: https://www.facebook.com/AlineGaleRealtor/ http://www.linkedin.com/in/AlineGale 
 address: Re/Max Connections;325 W. Third St.;Moscow, ID 83843
 phone: (208) 596-1577
+
 
 company name: RE/MAX Connections
 address: RE/MAX Connections;325 W. Third St.;Moscow, ID 83843
 phone: (208) 669-1364
 websites: http://www.homesinmoscow.com https://www.facebook.com/REMAXConnectionsMoscow 
-realtors: RE/MAX Connections Teri Skiles Susan Miller Aline Gale Mike and Angie Spellman Cindy Agidius Kristie Mattoon Nancy Tribble 
+realtors: RE/MAX Connections Teri Skiles, Susan Miller, Aline Gale, Mike and Angie Spellman, Cindy Agidius, Kristie Mattoon, Nancy Tribble, 
+
 RE/MAX Connections Teri Skiles
-websites: http://www.homesinmoscow.comhttps://www.facebook.com/REMAXConnectionsMoscow
+websites: http://www.homesinmoscow.com https://www.facebook.com/REMAXConnectionsMoscow 
 phone: (208) 669-1364
 
 Susan Miller
-websites: https://susanmiller1.remax.comhttp://www.linkedin.com/in/SusanMiller109
+websites: https://susanmiller1.remax.com http://www.linkedin.com/in/SusanMiller109 
 phone: (208) 203-1285
 
 Aline Gale
-websites: https://www.facebook.com/AlineGaleRealtor/http://www.linkedin.com/in/AlineGale
+websites: https://www.facebook.com/AlineGaleRealtor/ http://www.linkedin.com/in/AlineGale 
 phone: (208) 596-1577
 
 Mike and Angie Spellman
-websites: http://angiespellman.remax.comhttps://www.facebook.com/Mike-and-Angie-Spellman-ReMax-Agents-251797089075930/?modal=admin_todo_tour
+websites: http://angiespellman.remax.com https://www.facebook.com/Mike-and-Angie-Spellman-ReMax-Agents-251797089075930/?modal=admin_todo_tour 
 phone: (208) 427-2355
 
 Cindy Agidius
@@ -71,10 +78,11 @@ websites:
 phone: (208) 203-1310
 
 Kristie Mattoon
-websites: https://www.facebook.com/kristiemattoonrealtorremax/
+websites: https://www.facebook.com/kristiemattoonrealtorremax/ 
 phone: (208) 203-1780
 
 Nancy Tribble
-websites: http://homesinmoscow.comhttp://re/max Connections of Moscow,ID
+websites: http://homesinmoscow.com http://re/max Connections of Moscow,ID 
 phone: (208) 408-3292
+
 

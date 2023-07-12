@@ -170,6 +170,7 @@ def write_finish(companies):
 					f.write(f'{i}, ')
 				f.write('\n')
 
+				f.write('\n')
 				for reltor in company.realtors:
 					f.write(f'{reltor.name}\n')
 					f.write('websites: ')
@@ -177,11 +178,13 @@ def write_finish(companies):
 						f.write(f'{i} ')
 					f.write('\n')
 					f.write(f'phone: {reltor.phone}\n\n')
+				f.write('\n')
 			else:
-				f.write(f'{company.name}\n')
+				f.write(f'Personal Realtor: {company.name}\n')
+				f.write(f'company name: {company.company}\n')
 				f.write('websites: ')
 				for i in company.websites:
 					f.write(f'{i} ')
 				f.write('\n')
 				f.write(f'address: {company.address}\n')
-				f.write(f'phone: {company.phone}\n\n')
+				f.write(f'phone: {company.phone}\n\n\n')
